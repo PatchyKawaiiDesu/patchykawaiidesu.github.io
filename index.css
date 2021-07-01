@@ -1,0 +1,7 @@
+.gletter{
+    color:darkgreen;
+}
+.gletter:hover{
+    color:darkgreen;
+    width:100px;
+}
